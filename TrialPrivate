@@ -53,7 +53,7 @@ https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zx64ozN.png" group-title="NEWS - OTHERS", RT-International
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="FAVOURITES", ABC (US) News 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="NEWS - OTHERS", ABC (US) News 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O91dopH.jpg" group-title="NEWS - OTHERS",CBS News
@@ -82,12 +82,6 @@ http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTKbtuo.png" group-title="LEISURE",Astro AOD
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K3owPnE.jpg" group-title="LEISURE",Viu TV
-http://61.238.6.49:8000/bysid/99/99.mpeg
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K3owPnE.jpg" group-title="LEISURE",Viu TV6
-http://61.238.6.49:8000/bysid/96/96.mpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHECeAE.jpg" group-title="NEWS - ASIA",無綫新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
