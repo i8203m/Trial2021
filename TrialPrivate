@@ -1,90 +1,144 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H9UZ9a3.jpg" group-title="NEWS - ASIA",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c1G3or8.jpg" group-title="NEWS - ASIA", Berita RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VgGW0M7.png" group-title="NEWS - ASIA",Bernama
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="NEWS - ASIA",香港开电视
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="港澳台",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PCU1h8M.png" group-title="NEWS - ASIA", Channel News Asia 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台 (MY)
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3owPnE.jpg" group-title="港澳台",Viu TV
+http://61.238.6.49:8000/bysid/99/99.mpeg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3owPnE.jpg" group-title="港澳台",Viu TV6
+http://61.238.6.49:8000/bysid/96/96.mpeg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RHK31 HK
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="港澳台",RHK32 HK 
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHECeAE.jpg" group-title="港澳台",無綫新聞台
+http://livetv.dnsfor.me/channel.10.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l02HnSF.jpg" group-title="港澳台",無綫財經資訊台
+http://livetv.dnsfor.me/channel.11.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mT39Tk9.jpg" group-title="Malaysia", TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gvfV7KO.png" group-title="Malaysia", 8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y4yc4Na.png" group-title="Malaysia",Astro AEC
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTKbtuo.png" group-title="Malaysia", AOD HD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwtYS9i.png" group-title="Malaysia", 双星
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75SNYLn.png" group-title="Malaysia", 爱奇艺
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sql2FT0.png" group-title="中国",CCTV-1 综合
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqIoUkH.png" group-title="中国",湖南卫视 HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3SO4Gp.jpg" group-title="中国",东方卫视 HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zyU8CBP.png" group-title="中国",浙江卫视 HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Avnl2Gc.jpg" group-title="中国",江苏卫视 HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qc5NeFs.jpg" group-title="中国",北京卫视 HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vKBNX3n.jpg" group-title="中国",广东卫视 HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPdZLBy.png" group-title="中国",深圳卫视 HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Ohavoj.png" group-title="中国",天津卫视 HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9UZ9a3.jpg" group-title="NEWS",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgGW0M7.png" group-title="NEWS",Bernama
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCU1h8M.png" group-title="NEWS", Channel News Asia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="NEWS - OTHERS",Australia Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="NEWS",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NGLKKpJ.png" group-title="NEWS - OTHERS",ABC News 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NGLKKpJ.png" group-title="NEWS",ABC News 24
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfig6k7.jpg" group-title="NEWS - OTHERS", Sky News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfig6k7.jpg" group-title="NEWS",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lChIIXa.jpg" group-title="NEWS - OTHERS", CNN International 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lChIIXa.jpg" group-title="NEWS",CNN International 
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="NEWS - OTHERS",Euronews
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="NEWS",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NEWS - OTHERS",France 24 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NEWS",France 24 
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="NEWS - OTHERS",TRT World (UK) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="NEWS",TRT World (UK) 
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qJi2sub.jpg" group-title="NEWS - OTHERS", Al-jazeera 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJi2sub.jpg" group-title="NEWS",Al-jazeera 
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hz1kFW0.jpg" group-title="NEWS",Bloomberg Asia TV 
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zx64ozN.png" group-title="NEWS",RT-International
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="NEWS",ABC (US) News 
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O91dopH.jpg" group-title="NEWS",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpBqWQJ.png" group-title="NEWS",BBC News 
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hlUfM1K.png" group-title="NEWS",AU Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hlUfM1K.png" group-title="NEWS",AU Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hlUfM1K.png" group-title="NEWS",AU Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OAUKT48.png" group-title="NEWS",DW News
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9njd9z.jpg" group-title="LEISURE",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="LEISURE",Nat Geo People HD
+http://185.180.221.194:8277/streams/d/Natgeopeople/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="LEISURE",National Geographic
+http://185.180.221.194:8277/streams/d/Natgeo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3XGyqDF.png" group-title="LEISURE",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="LEISURE",NHK WORLD JAPAN
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hz1kFW0.jpg" group-title="NEWS - ASIA", Bloomberg Asia TV 
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zx64ozN.png" group-title="NEWS - OTHERS", RT-International
-http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="NEWS - OTHERS", ABC (US) News 
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O91dopH.jpg" group-title="NEWS - OTHERS",CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JpBqWQJ.png" group-title="NEWS - OTHERS", BBC News 
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hlUfM1K.png" group-title="NEWS - OTHERS",AU Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hlUfM1K.png" group-title="NEWS - OTHERS",AU Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hlUfM1K.png" group-title="NEWS - OTHERS",AU Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OAUKT48.png" group-title="NEWS - OTHERS", DW News
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="LEISURE",翡翠台 (MY)
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y4yc4Na.png" group-title="LEISURE",Astro AEC
-http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eTKbtuo.png" group-title="LEISURE",Astro AOD
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KHECeAE.jpg" group-title="NEWS - ASIA",無綫新聞台
-http://livetv.dnsfor.me/channel.10.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l02HnSF.jpg" group-title="NEWS - ASIA",無綫財經資訊台
-http://livetv.dnsfor.me/channel.11.m3u8
