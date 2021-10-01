@@ -3,7 +3,7 @@
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台 (MY)
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+http://50.7.17.176:61980/myplay/ml2_884/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3owPnE.jpg" group-title="港澳台",Viu TV
 http://61.238.6.49:8000/bysid/99/99.mpeg
@@ -23,6 +23,9 @@ http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l02HnSF.jpg" group-title="港澳台",無綫財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lrhrBw3.png" group-title="港澳台",星河频道
+http://50.7.17.176:61980/myplay/c_58031/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mT39Tk9.jpg" group-title="Malaysia", TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
@@ -30,16 +33,19 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y4yc4Na.png" group-title="Malaysia",Astro AEC
-http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+http://50.7.17.176:61980/myplay/c_58022/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTKbtuo.png" group-title="Malaysia", AOD HD
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+http://50.7.17.176:61980/myplay/ml2_882/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwtYS9i.png" group-title="Malaysia", 双星
-http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+http://50.7.17.176:61980/myplay/c_58027/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/up1h0Do.png" group-title="Malaysia", 全家
+http://50.7.17.176:61980/myplay/ml2_885/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/75SNYLn.png" group-title="Malaysia", 爱奇艺
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+http://50.7.17.176:61980/myplay/ml2_886/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sql2FT0.png" group-title="中国",CCTV-1 综合
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
@@ -128,11 +134,11 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OAUKT48.png" group-title="NEWS",DW News
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B1AZNK9.png" group-title="LEISURE",Food Network
+http://50.7.17.176:61980/myplay/c_58039/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9njd9z.jpg" group-title="LEISURE",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="LEISURE",Nat Geo People HD
-http://185.180.221.194:8277/streams/d/Natgeopeople/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="LEISURE",National Geographic
 http://185.180.221.194:8277/streams/d/Natgeo/playlist.m3u8
