@@ -1,13 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H9UZ9a3.jpg" group-title="General 大众",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCU1h8M.png" group-title="General 大众", Channel News Asia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="General 大众",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NGLKKpJ.png" group-title="General 大众",ABC News 24
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -17,12 +11,6 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="General 大众",ABC (US) News 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O91dopH.jpg" group-title="General 大众",CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JpBqWQJ.png" group-title="General 大众",BBC News 
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OAUKT48.png" group-title="General 大众",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -36,9 +24,6 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="General 大众",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T8YLkIe.jpg" group-title="General 大众",NHK 华语视界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYXChY0.png" group-title="General 大众",Crime 360
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -47,9 +32,6 @@ https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OJRHYbT.png" group-title="General 大众",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="General 大众",Docurama
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdocurama/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EoE1P11.png" group-title="General 大众",History East [Not 24/7]
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
@@ -63,26 +45,20 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oIy673i.png" group-title="General 大众",Magellan TV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="港澳台",香港开电视
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="General 大众",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RHK31 HK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="General 大众",RHK31 HK
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RHK31 HK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="General 大众",RHK31 HK
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="港澳台",RHK32 HK 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="General 大众",RHK32 HK 
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="港澳台",RHK32 HK 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="General 大众",RHK32 HK 
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KHECeAE.jpg" group-title="港澳台",無綫新聞台
-http://livetv.dnsfor.me/channel.10.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l02HnSF.jpg" group-title="港澳台",無綫財經資訊台
-http://livetv.dnsfor.me/channel.11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zx64ozN.png" group-title="General 大众",RT-International (Lag)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -101,9 +77,6 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVapdZ1.jpg" group-title="General 大众",TV9 [Not 24/7]
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/feH635A.png" group-title="General 大众",tvN (Indo Subs)
-http://210.210.155.37/dr9445/h/h20/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZrmiMKy.png" group-title="General 大众",Persiana Documentary [Not 24/7]
 http://51.210.199.23/hls/stream.m3u8
